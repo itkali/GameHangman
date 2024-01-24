@@ -1,0 +1,17 @@
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\bin\Debug\net8.0-windows\Game Hangman.exe
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\bin\Debug\net8.0-windows\Game Hangman.deps.json
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\bin\Debug\net8.0-windows\Game Hangman.runtimeconfig.json
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\bin\Debug\net8.0-windows\Game Hangman.dll
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\bin\Debug\net8.0-windows\Game Hangman.pdb
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game_Hangman.Form1.resources
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game_Hangman.Properties.Resources.resources
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game Hangman.csproj.GenerateResource.cache
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game Hangman.GeneratedMSBuildEditorConfig.editorconfig
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game Hangman.AssemblyInfoInputs.cache
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game Hangman.AssemblyInfo.cs
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game Hangman.csproj.CoreCompileInputs.cache
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game Hangman.dll
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\refint\Game Hangman.dll
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game Hangman.pdb
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\Game Hangman.genruntimeconfig.cache
+J:\Programs\Microsoft Visual Studio\repos\Game Hangman\Game Hangman\obj\Debug\net8.0-windows\ref\Game Hangman.dll
